@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/K8KqiFKpRN9mvEr/LOAgPKTtlLLx97CKKnkf7ctR23QZJxl3NKFB0VPki3C+VSGPlqfnRbSKKDEuwX1EuDnzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\happy\\OneDrive\\Desktop\\New folder\\FSharpAmrit\\FSharpAmrit.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\happy\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
